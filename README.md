@@ -1,15 +1,19 @@
-<!-- BANNER -->
+<p align="center">
+  ⩇⩇:⩇⩇ 
+  <img 
+    src="https://komarev.com/ghpvc/?username=IraPavlikha&label=&color=4b4a8c&style=flat"
+  />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/koklysh8/koklysh8/main/koklysh8/banner.PNG" width="100%" />
 </p>
 
-<!-- INFO -->
 <p align="center">
   <strong>18 y.o | 07.04 ✦ GMT +3</strong><br/>
   <em>经过这么多年，自由终于来了</em>
 </p>
 
-<!-- MUSIC ROW -->
 <table align="center">
   <tr>
     <td align="center" valign="middle">
@@ -28,11 +32,3 @@
 </table>
 
 
-
-<!-- VIEWS -->
-<p align="center">
-  ⩇⩇:⩇⩇ 
-  <img 
-    src="https://komarev.com/ghpvc/?username=IraPavlikha&label=&color=4b4a8c&style=flat"
-  />
-</p>
