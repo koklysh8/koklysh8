@@ -1,7 +1,9 @@
 <p align="center">
+    <img src="https://gifcity.carrd.co/assets/images/gallery91/b0198276.gif?v=49efbe4cc" height="32" />
   <img src="https://gifcity.carrd.co/assets/images/gallery117/1786bf45.png?v=49efbe4c" height="32" /> 
   <img src="https://komarev.com/ghpvc/?username=IraPavlikha&label=&color=DC143C&style=flat" />
   <img src="https://gifcity.carrd.co/assets/images/gallery117/1786bf45.png?v=49efbe4c" height="32" />
+  <img src="https://gifcity.carrd.co/assets/images/gallery91/b0198276.gif?v=49efbe4cc" height="32" />
 </p>
 
 <p align="center">
