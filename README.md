@@ -1,9 +1,16 @@
-<p align="center">
-  ⩇⩇:⩇⩇ 
+<p align="center" style="display:flex; justify-content:center; align-items:center; gap:8px;">
   <img 
-    src="https://komarev.com/ghpvc/?username=IraPavlikha&label=&color=4b4a8c&style=flat"
+    src="https://gifcity.carrd.co/assets/images/gallery117/1786bf45.png?v=49efbe4c"
+    alt="watchers"
+    height="32"
+  />
+
+  <img 
+    src="https://komarev.com/ghpvc/?username=IraPavlikha&label=people&color=ff0000&style=flat"
+    alt="views"
   />
 </p>
+
 
 <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery39/c81a92f4.gif?v=49efbe4c" width="100%" />
