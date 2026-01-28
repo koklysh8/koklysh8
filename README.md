@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/koklysh8/koklysh8/main/koklysh8/banner.PNG" width="100%" />
+  <img src="https://i.pinimg.com/originals/5b/de/92/5bde926985cd7f00c5ec0ba00b9951ca.gif" width="100%" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <tr>
     <td align="center" valign="middle">
       <img 
-        src="https://raw.githubusercontent.com/koklysh8/koklysh8/main/koklysh8/sound.PNG"
+        src="https://raw.githubusercontent.com/koklysh8/koklysh8/main/koklysh8/disk.PNG"
         width="200"
         style="border-radius: 14px;"
       />
