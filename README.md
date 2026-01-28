@@ -1,15 +1,14 @@
 <p align="center" style="display:flex; justify-content:center; align-items:center; gap:8px;">
   <img 
     src="https://gifcity.carrd.co/assets/images/gallery117/1786bf45.png?v=49efbe4c"
-    alt="watchers"
     height="32"
   />
 
   <img 
-    src="https://komarev.com/ghpvc/?username=IraPavlikha&label=people&color=ff0000&style=flat"
-    alt="views"
+    src="https://komarev.com/ghpvc/?username=IraPavlikha&label=&color=ff0000&style=flat"
   />
 </p>
+
 
 
 <p align="center">
