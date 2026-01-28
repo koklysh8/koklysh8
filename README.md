@@ -1,13 +1,5 @@
-<p align="center" style="display:flex; justify-content:center; align-items:center; gap:8px;">
-  <img 
-    src="https://gifcity.carrd.co/assets/images/gallery117/1786bf45.png?v=49efbe4c"
-    height="32"
-  />
+<p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery117/1786bf45.png?v=49efbe4c" height="32" /> <img src="https://komarev.com/ghpvc/?username=IraPavlikha&label=&color=ff0000&style=flat" /></p>
 
-  <img 
-    src="https://komarev.com/ghpvc/?username=IraPavlikha&label=&color=ff0000&style=flat"
-  />
-</p>
 
 
 
